@@ -4,7 +4,7 @@
 
 A github repository for the in-class demonstration of importing CAD data into Unreal Engine via conversion in Blender. 
 
-See vdieo at https://youtu.be/27MW3sUVHKI 
+See video at https://youtu.be/27MW3sUVHKI 
 
 ## Usage
 Clone, or download the zip, to a local directory.
